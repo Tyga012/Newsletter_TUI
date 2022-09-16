@@ -16,7 +16,7 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#ffffff">
+  <mj-body background-color="#ffff00">
     <mj-section background-color="#70cbf9" border-radius="10px">
       <mj-column width="15%">
         <mj-image src="https://iili.io/P4Qbcb.png" alt="logo" width="150px" padding="10px 0"></mj-image>
